@@ -23,6 +23,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=D4AF37)
 ![FPGA](https://img.shields.io/badge/FPGA-0d1117?style=flat-square&logo=intel&logoColor=D4AF37)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-0d1117?style=flat-square&logo=autodesk&logoColor=D4AF37)
+![STM32](https://img.shields.io/badge/STM32-0d1117?style=flat-square&logo=stmicroelectronics&logoColor=D4AF37)
 
 ### 🔭 Projets
 
